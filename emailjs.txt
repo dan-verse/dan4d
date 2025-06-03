@@ -1,0 +1,3 @@
+service_id ---> service_mcfwp1d
+template_id -> template_do9qsmj
+public_key --> 1iAx77mr0EHVCi3Ut

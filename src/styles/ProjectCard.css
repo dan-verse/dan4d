@@ -1,0 +1,110 @@
+.project-card {
+    background-color: var(--color-gray-50);
+    border-radius: 0.5rem;
+    overflow: hidden;
+    box-shadow: var(--shadow-lg);
+    transition: var(--transition-standard);
+    transform: translateY(0);
+  }
+  
+  .project-card:hover {
+    transform: translateY(-0.5rem);
+    box-shadow: var(--shadow-xl);
+  }
+  
+  .project-image {
+    height: 12rem;
+    background: linear-gradient(to right, var(--color-blue-500), var(--color-indigo-600));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .project-image-placeholder {
+    color: var(--color-white);
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+
+  .project-image-placeholder {
+    color: #ffffff;
+    font-size: 16px;
+  }
+  
+  .project-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    transition: transform 0.5s ease;
+    opacity: 0;
+  }
+  
+  .project-img.loaded {
+    opacity: 1;
+  }
+  
+  .project-card:hover .project-img {
+    transform: scale(1.05);
+  }
+  
+  .project-details {
+    padding: 1.5rem;
+  }
+  
+  .project-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: var(--color-gray-800);
+  }
+  
+  .project-description {
+    color: var(--color-gray-600);
+    margin-bottom: 1rem;
+  }
+  
+  .project-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .project-tag {
+    background-color: var(--color-blue-100);
+    color: var(--color-blue-800);
+    font-size: 0.75rem;
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+  }
+  
+  .project-link {
+    opacity: 0;
+    transition: var(--transition-standard);
+    margin-top: 1.5rem;
+  }
+  
+  .project-link.visible {
+    opacity: 1;
+  }
+  
+  .view-project-button {
+    display: flex;
+    align-items: center;
+    color: var(--color-blue-800);
+    font-weight: 500;
+    background: none;
+    padding: 0;
+    transition: var(--transition-standard);
+  }
+  
+  .view-project-button:hover {
+    color: var(--color-blue-600);
+  }
+  
+  .arrow-icon {
+    width: 1rem;
+    height: 1rem;
+    margin-left: 0.25rem;
+  }

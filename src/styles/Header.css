@@ -1,0 +1,133 @@
+.header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 50;
+  }
+  
+  /* Contact Bar */
+  .contact-bar {
+    background-color: var(--color-blue-900);
+    color: var(--color-white);
+    transition: var(--transition-standard);
+    height: 2.5rem;
+    opacity: 1;
+  }
+  
+  .contact-bar.hidden {
+    height: 0;
+    opacity: 0;
+    overflow: hidden;
+  }
+  
+  .contact-items {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 1rem;
+    font-size: 0.875rem;
+  }
+  
+  .contact-link {
+    display: flex;
+    align-items: center;
+    transition: var(--transition-standard);
+  }
+  
+  .contact-link:hover {
+    color: var(--color-blue-200);
+  }
+  
+  .icon {
+    margin-right: 0.25rem;
+  }
+  
+  .social-links {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  
+  .social-link {
+    transition: var(--transition-standard);
+  }
+  
+  .social-link:hover {
+    color: var(--color-blue-200);
+  }
+  
+  /* Main Navigation */
+  .main-nav {
+    background-color: var(--color-white);
+    box-shadow: var(--shadow-md);
+    transition: var(--transition-standard);
+  }
+  
+  .nav-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 0;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--color-blue-800);
+  }
+  
+  .logo span {
+    display: inline-block;
+    transition: transform 0.3s ease;
+  }
+  
+  .logo span:hover {
+    transform: rotate(6deg);
+  }
+  
+  .nav-links {
+    display: flex;
+    gap: 2rem;
+  }
+  
+  /* Mobile menu */
+  .mobile-menu-button {
+    display: none;
+    color: var(--color-gray-600);
+    cursor: pointer;
+  }
+  
+  .mobile-menu-button:hover {
+    color: var(--color-blue-800);
+  }
+  
+  .hamburger-icon {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  
+  /* Media queries */
+  @media (max-width: 768px) {
+    .nav-links {
+      display: none;
+      flex-direction: column;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      width: 100%;
+      background-color: var(--color-white);
+      box-shadow: var(--shadow-md);
+      padding: 1rem 0;
+      gap: 1rem;
+      text-align: center;
+    }
+    
+    .nav-links.mobile-open {
+      display: flex;
+    }
+    
+    .mobile-menu-button {
+      display: block;
+    }
+  }
