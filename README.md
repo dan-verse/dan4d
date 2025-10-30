@@ -1,24 +1,24 @@
-<!-- 🧠 MONK DAN | Full-Stack Developer & Designer -->
+<!-- 🌌 DAN-VERSE | Full-Stack Developer & Designer -->
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#00bfff;">Monk Dan</span></h1>
+<h1 align="center">👋 Welcome to the <span style="color:#00bfff;">Dan-Verse</span></h1>
 
 <p align="center">
-  🚀 <b>Full-Stack Developer</b> | 🎨 <b>UI/UX Designer</b> | 📊 <b>Data Enthusiast</b><br>
-  <i>I turn ideas into scalable, beautiful, and efficient digital experiences.</i>
+  🚀 <b>Full-Stack Developer</b> | 🎨 <b>Design Enthusiast</b> | 🧠 <b>Data Explorer</b><br>
+  <i>Some say I just code — I say I craft experiences that even aliens would use.</i>
 </p>
 
 ---
 
 ### 💫 About Me  
 
-- 🧩 I build complete solutions — from design and frontend to backend and deployment.  
-- 💡 Passionate about **clean code**, **modern design**, and **meaningful user experiences**.  
-- 🌍 Focused on creating systems that make an impact.  
-- ⚙️ Constantly exploring **AI integrations**, **cloud systems**, and **developer productivity tools**.  
+- 🧩 I build *everything* — from sketches on Figma to full-stack systems running on the cloud.  
+- 💡 I believe in **clean design**, **scalable code**, and a bit of humor to keep the bugs away.  
+- 🌍 Focused on creating systems that *work hard and look good doing it.*  
+- 🧠 Currently experimenting with **AI**, **automation**, and how much caffeine one developer can handle.  
 
 ---
 
-### 🧰 Tech Stack  
+### 🧰 Tech Arsenal  
 
 #### 🎨 **Design & Creative Tools**
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -42,7 +42,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 
-#### 🗄️ **Databases & Cloud**
+#### ☁️ **Databases & Cloud**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -57,26 +57,27 @@
 
 ---
 
-### 🚧 Currently Exploring
-- ⚡ Building APIs with **FastAPI**
-- ☁️ Advanced **AWS Cloud Architecture**
-- 🧠 Integrating **AI (OpenAI, LangChain)** into web projects
+### 🚀 Currently Exploring
+- ⚡ APIs with **FastAPI**
+- 🧠 Smart systems using **AI (OpenAI, LangChain)**
+- ☁️ Scaling ideas on **AWS Cloud**
+- 🪐 And... how to keep my coffee-to-code ratio stable  
 
 ---
 
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monkdan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkdan&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dan-verse&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-verse&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 </p>
 
 ---
 
-### 🌍 Let’s Connect  
+### 🌍 Connect with the Dan-Verse  
 
 <p align="center">
-  <a href="https://obaedanford.netlify.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://obaedanford.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:danford.obae01@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -84,9 +85,12 @@
 
 ---
 
-### ⚡ Fun Fact  
-> When I’m not coding or designing, I’m editing videos, sketching new UI ideas, or brainstorming my next creative tech project.
+### ⚡ Fun Facts from the Dan-Verse  
+> 🧑‍💻 My debugger and I are in a complicated relationship.  
+> ☕ Coffee is the real API I integrate daily.  
+> 🎨 I design interfaces that even my mom says look “techy.”  
+> 🪄 Code, Design, Repeat — until something magical (or broken) happens.  
 
 ---
 
-⭐ **“Build beautifully. Code confidently. Impact globally.”**
+⭐ **“Welcome to the Dan-Verse — where creativity meets clean code and a bit of chaos.”**
